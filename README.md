@@ -1,4 +1,4 @@
-## Oi eu sou o Gabriel Lima!
+## Olá, eu sou o Gabriel Lima!
 
 <div align="center">
   <a href="https://github.com/GabrieLIma-dev">
