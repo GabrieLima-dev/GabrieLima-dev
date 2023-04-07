@@ -12,13 +12,13 @@
 - 😁 Nas horas vagas pedalo e tiro umas fotos.
 - 🤓 Pronomes: ele/dele.
 
-*** Tenho conhecimento em ***
+                                                         *** Tenho conhecimento em ***
 
 <div align= "center">
   
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
  
@@ -33,24 +33,28 @@
 
 </div>
 
-*** Estou aprendendo ***
+                                                           *** Estou aprendendo ***
 
 <div align= "center">
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 </div>
 
-*** Tenho interesse em ***
+                                                          *** Tenho interesse em ***
 
 <div align= "center">
 
-[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/pt-br/4.1/) 
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/docs/getting-started)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/pt-br/4.1/)
+![MoingoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
-*** Contatos ***
+                                                               *** Contatos ***
 
 <div align= "center"> 
 
@@ -61,12 +65,11 @@
 </div>
 
 
-*** Estatísticas do meu GitHub ***
+                                                        *** Estatísticas do meu GitHub ***
 
-<div align="center">
-  <a href="https://github.com/GabrieLIma-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieLima-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima-dev&layout=compact&langs_count=7&theme=highcontrast"/>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GabrieLima-dev&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GabrieLima-dev&show_icons=true&theme=highcontrast#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+ <a href="https://github.com/GabrieLIma-dev">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima-dev&layout=compact&langs_count=7&theme=highcontrast"/>
   
-
-</div>
