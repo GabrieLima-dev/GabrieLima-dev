@@ -7,7 +7,7 @@
 </div>
 
 - 🎓 Estudo `Análise e Desenvolvimento de Sistemas`.
-- 🌱 Estou aprendendo `JAVA`, `SCRUM` e `KANBAN`.
+- 🌱 Estou aprendendo `JAVA`.
 - 💡 Tenho interesse em aprender `Django` e `MongoDB`.
 - 😁 Nas horas vagas pedalo e tiro umas fotos.
 - 🤓 Pronomes: ele/dele.
@@ -28,6 +28,8 @@
   [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
   [![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) 
   [![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/pt-BR)
+  [![SCRUM](https://img.shields.io/badge/-scrum-030303?style=for-the-badge&logo=scrum&logoColor=black)](https://www.scrum.org/)
+  [![KABAN](https://img.shields.io/badge/-Kaban-030303?style=for-the-badge&logo=kaban&logoColor=black)](https://www.scrum.org/)
   
  
 
