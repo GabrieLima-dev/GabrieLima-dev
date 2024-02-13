@@ -7,7 +7,7 @@
 </div>
 
 - 🎓 Estudo `Análise e Desenvolvimento de Sistemas`.
-- 🌱 Estou aprendendo `JAVA`.
+- 🌱 Estou aprendendo `C#`.
 - 💡 Tenho interesse em aprender `Django` e `MongoDB`.
 - 😁 Nas horas vagas pedalo e tiro umas fotos.
 - 🤓 Pronomes: ele/dele.
@@ -21,6 +21,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+  [![C#](https://img.shields.io/badge/-csharp-9400d3?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
  
   [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
   [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
