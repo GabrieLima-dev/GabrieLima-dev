@@ -6,7 +6,7 @@
 
 </div>
 
-- 🎓 Estudo `Análise e Desenvolvimento de Sistemas`.
+- 🎓 Formado em `Análise e Desenvolvimento de Sistemas`.
 - 🌱 Estou aprendendo `C#`.
 - 💡 Tenho interesse em aprender `Django` e `MongoDB`.
 - 😁 Nas horas vagas pedalo e tiro umas fotos.
@@ -42,7 +42,6 @@
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 </div>
 
