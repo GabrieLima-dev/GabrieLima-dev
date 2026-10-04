@@ -10,7 +10,7 @@
 
 <div align="center">
 
-Desenvolvimento Backend • Java • Quarkus • Spring Boot • Cloud Computing • Engenharia de Software
+Desenvolvimento Backend • Java • Quarkus • Cloud Computing • Engenharia de Software
 
 </div>
 
@@ -248,8 +248,12 @@ Também possuo experiência na aplicação de Inteligência Artificial em proces
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/5579981381156">
+<a href="https://wa.me/5579981338664">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/cocada.dev">
+  <img src="https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
