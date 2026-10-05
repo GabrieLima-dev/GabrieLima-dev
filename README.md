@@ -8,12 +8,6 @@
 
 <h1 align="center">Software Engineer | Java Backend Developer | Professor Universitário</h1>
 
-<div align="center">
-
-Desenvolvimento Backend • Java • Quarkus • Cloud Computing • Engenharia de Software
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
